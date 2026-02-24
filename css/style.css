@@ -1,11 +1,14 @@
 /* style.css */
 
-div {
-    color:olive;
-    background-color:black;
+p {
+    Color:white;
+    background-color: darkblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: bold;
 }
 
-p {
-    color:red;
-    background-color: blue;
+img {
+    height: auto;
+    width: 600px;
 }
