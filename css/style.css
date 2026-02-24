@@ -2,17 +2,27 @@
 
 h1 {
     Color:white;
-    background-color: darkblue;
     font-family: 'Courier New', Courier, monospace;
-    font-size: large;
+    font-size:xx-large;
     font-weight: bold;
 }
 
 * {
     background-color: black;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    font-size: large;
+}
+
+ol {
+    text-align: center;
+    font-size: large;
 }
 
 img {
     height: auto;
-    width: 600px;
+    width: 400px;
 }
