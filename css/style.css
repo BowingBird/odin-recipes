@@ -21,8 +21,12 @@ ul {font-size: large}
 
 ol {font-size: large}
 
-li {font-size: large;
+li {font-size: medium;
+    color:white;
     font-family: 'Courier New', Courier, monospace}
+
+p {color:white;
+    font-size: medium}
 
 img {height: auto;
     width: 400px;
