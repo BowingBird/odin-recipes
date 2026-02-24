@@ -1,28 +1,29 @@
 /* style.css */
 
-h1 {
-    Color:white;
+h1 {Color:white;
     font-family: 'Courier New', Courier, monospace;
     font-size:xx-large;
-    font-weight: bold;
-}
+    font-weight: bold}
 
-* {
-    background-color: gray;
-    text-align: center;
-}
+h2 {Color:white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:xx-large;
+    font-weight: bold}
 
-ul {
-    text-align: center;
-    font-size: large;
-}
+h3 {Color:white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:xx-large;
+    font-weight: bold}
 
-ol {
-    text-align: center;
-    font-size: large;
-}
+* {background-color: gray}
 
-img {
-    height: auto;
+ul {font-size: large}
+
+ol {font-size: large}
+
+li {font-size: large;
+    font-family: 'Courier New', Courier, monospace}
+
+img {height: auto;
     width: 400px;
-}
+    align-items: center}
