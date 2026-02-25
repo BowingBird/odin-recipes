@@ -1,33 +1,48 @@
 /* style.css */
 
+
+*  {margin:auto;
+    display: block;
+    box-sizing: auto;
+    text-align:center;}
+
 h1 {Color:white;
     font-family: 'Courier New', Courier, monospace;
     font-size:xx-large;
-    font-weight: bold}
+    border: 2px solid blueviolet;
+    padding: 20px;
+    margin-bottom: 4px;
+    box-sizing:auto;
+    width:fit-content;
+    font-weight: bold;}
 
 h2 {Color:white;
     font-family: 'Courier New', Courier, monospace;
-    font-size:xx-large;
+    font-size:x-large;
     font-weight: bold}
 
 h3 {Color:white;
     font-family: 'Courier New', Courier, monospace;
-    font-size:xx-large;
+    font-size:x-large;
     font-weight: bold}
 
-* {background-color: gray}
+* {background-color: black}
 
-ul {font-size: large}
+ul {font-size: large;}
 
-ol {font-size: large}
+ol {font-size: large;}
 
 li {font-size: medium;
     color:white;
+    border: 2px solid white;
+    width:fit-content;
     font-family: 'Courier New', Courier, monospace}
 
 p {color:white;
-    font-size: medium}
+    font-size: medium;
+    border: 2px solid red;
+    width:fit-content;
+    margin-bottom: 4px;}
 
 img {height: auto;
-    width: 400px;
-    align-items: center}
+    width: 400px;}
